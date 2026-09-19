@@ -220,4 +220,4 @@ LicenseCrawler is available as a **complete free version** with all features unl
 Don’t miss your chance to regain control over your software licenses. Download LicenseCrawler today and simplify your software management!
 
 ---
-**Last updated:** 2026-09-19 19:11:15 UTC
+**Last updated:** 2026-09-19 22:09:35 UTC
